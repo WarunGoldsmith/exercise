@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Three food items
+three favourite movies
+>>>>>>> movie
